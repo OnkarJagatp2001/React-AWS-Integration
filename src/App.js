@@ -4,11 +4,9 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Hello I am Onkar Jagtap</h1>
-      <h2>Roll No 20141261</h2>
-      <h3>This is experiment demo</h3>
+      <h1>Hello from AWS</h1>
       <h2 style={{ color: "red" }}>
-        This is hosting of react app on AWS amplify
+        This is hosting of react app on AWS EC2
       </h2>
     </div>
   );
